@@ -1,2 +1,4 @@
 Name: Haven Freeman
-Webpage URL: https://codd.cs.gsu.edu/~hfreeman11/web/hw2/index.html
+Live URL: https://codd.cs.gsu.edu/~hfreeman11/web/hw2/index.html
+GitHub: https://github.com/Hfreeman1/web-hw2
+Notes: HTML and CSS validated successfully.
